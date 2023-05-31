@@ -2,5 +2,4 @@ pandas
 numpy
 matplotlib
 sklearn
-cv2
 opencv-python
